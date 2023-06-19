@@ -1,0 +1,151 @@
+/* Estilos para a página do formulário */
+.formulario-container {
+    background-color: #2B2730;
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .formulario-container h2 {
+    color: #A7ECEE;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .formulario-container .form-group label {
+    color: #A7ECEE;
+  }
+  
+  .formulario-container .form-control {
+    background-color: #2B2730;
+    border: none;
+    border-bottom: 1px solid #A7ECEE;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+  }
+  
+  .formulario-container .form-control:focus {
+    background-color: #2B2730;
+    border-color: #A7ECEE;
+    color: #FFFFFF;
+  }
+  
+  .formulario-container .btn-primary {
+    background-color: #A7ECEE;
+    border-color: #A7ECEE;
+    color: #2B2730;
+    width: 100%;
+  }
+  
+  .formulario-container .btn-primary:hover {
+    background-color: #2B2730;
+    border-color: #2B2730;
+    color: #FFFFFF;
+  }
+
+  /* Estilos para a página de login */
+.login-container {
+    background-color: #2B2730;
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .login-container h2 {
+    color: #A7ECEE;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-container .form-group label {
+    color: #A7ECEE;
+  }
+  
+  .login-container .form-control {
+    background-color: #2B2730;
+    border: none;
+    border-bottom: 1px solid #A7ECEE;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+  }
+  
+  .login-container .form-control:focus {
+    background-color: #2B2730;
+    border-color: #A7ECEE;
+    color: #FFFFFF;
+  }
+  
+  .login-container .btn-primary {
+    background-color: #A7ECEE;
+    border-color: #A7ECEE;
+    color: #2B2730;
+    width: 100%;
+  }
+  
+  .login-container .btn-primary:hover {
+    background-color: #2B2730;
+    border-color: #2B2730;
+    color: #FFFFFF;
+  }
+
+  /* Estilos para o carrossel */
+.carousel-item {
+    height: 400px;
+  }
+  
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    color: #2B2730;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #2B2730;
+  }
+  
+  .carousel-control-prev:hover,
+  .carousel-control-next:hover {
+    color: #A7ECEE;
+  }
+  
+  .carousel-indicators li {
+    background-color: #A7ECEE;
+    border-color: #A7ECEE;
+  }
+  
+  .carousel-indicators .active {
+    background-color: #2B2730;
+    border-color: #2B2730;
+  }
+
+  /* Estilos para o menu */
+.navbar {
+    background-color: #2B2730;
+  }
+  
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #A7ECEE;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #FFFFFF;
+  }
+
+  body {
+    background-color: #2B2730;
+    color: #FFFFFF;
+  }
+  
